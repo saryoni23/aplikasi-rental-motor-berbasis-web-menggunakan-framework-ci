@@ -1,4 +1,10 @@
 ###################
+Tampilan Aplikasi
+###################
+![apprental](https://user-images.githubusercontent.com/24933309/112499308-ee374d80-8db9-11eb-9f4e-c35c1021b9e0.png)
+
+
+###################
 What is CodeIgniter
 ###################
 
